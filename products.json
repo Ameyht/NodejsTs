@@ -1,0 +1,33 @@
+[
+  {
+    "productId": 1,
+    "productName": "Laptop",
+    "productPrice": 1200,
+    "productDetails": "High-performance laptop with advanced features."
+  },
+  {
+    "productId": 2,
+    "productName": "Smartphone",
+    "productPrice": 500,
+    "productDetails": "Latest smartphone with a powerful camera."
+  },
+  {
+    "productId": 3,
+    "productName": "Headphones",
+    "productPrice": 80,
+    "productDetails": "Wireless headphones with noise-canceling technology."
+  },
+  {
+    "productId": 4,
+    "productName": "Smartwatch",
+    "productPrice": 150,
+    "productDetails": "Fitness tracking smartwatch with a sleek design."
+  },
+  {
+    "productId": 5,
+    "productName": "Camera",
+    "productPrice": 700,
+    "productDetails": "Professional-grade camera for photography enthusiasts."
+  }
+]
+
